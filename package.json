@@ -1,0 +1,14 @@
+{
+  "name": "pointdis",
+  "version": "0.0.1",
+  "description": "point list dist for the point",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/"
+  },
+  "author": "witt",
+  "license": "ISC",
+  "dependencies": {
+    "coordsdistance": "0.0.2"
+  }
+}
